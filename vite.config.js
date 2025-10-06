@@ -5,3 +5,7 @@ export default defineConfig({
   plugins: [tailwindcss()],
   base: "/Initialisation_Tailwind",
 });
+
+//npm install
+
+//npm run dev
