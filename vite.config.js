@@ -8,4 +8,8 @@ export default defineConfig({
 
 //npm install
 
+//extension prettier + format
+
+//extension Tailwind CSS IntelliSense dans VSCode
+
 //npm run dev
